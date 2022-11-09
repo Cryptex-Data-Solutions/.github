@@ -1,2 +1,1 @@
-# .github
-Cryptex Data Solutions Overview
+# Cryptex Data Solutions
